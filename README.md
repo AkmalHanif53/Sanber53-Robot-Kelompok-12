@@ -15,7 +15,7 @@ Tugas Yang Dikerjakan :
 1. SignIn (Dyah Puji Astuti)
 2. Book Flight (Adi Akbar)
 3. Search Flight (Muhammad Hanif Akmalludin)
-4. SignOut & Book Flight (Raihana Aqila)
+4. Book Flight (Raihana Aqila)
 
 Link Video :
 1. SignIn = https://drive.google.com/file/d/1BTDfkUUR0gagVtr5HpoE2edjLYtxGPm5/view?usp=sharing
