@@ -21,7 +21,7 @@ Link Video :
 1. SignIn = https://drive.google.com/file/d/1BTDfkUUR0gagVtr5HpoE2edjLYtxGPm5/view?usp=sharing
 2. Book Flight =
 3. Search Flight = https://drive.google.com/file/d/1Bc746y6BzbMJAWP9yLMWtgSfcyc5FTLr/view?usp=sharing
-4. SignOut = 
+4. SignOut = https://drive.google.com/file/d/12d8qiCSOe-qFjR3jQoZ6UpS-YTNkWSEH/view?usp=sharing
 
 Catatan : 
 Fitur SignOut tidak dapat diotomatisasi karena tombol SignOut pada aplikasi tidak dapat diklik.
